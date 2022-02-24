@@ -4,7 +4,7 @@
 
 ### ABOUT ME
 
-I'm David; I'm a software engineer working at EightSleep.  When I'm not programming, I enjoy cooking (and eating), skiing, basketball and exploring the big apple 🍎 
+I'm David; I'm a software engineer working at TheRealReal.  When I'm not programming, I enjoy cooking (and eating), skiing, basketball and exploring the big apple 🍎 
 
 ### TECHNOLOGIES
 
