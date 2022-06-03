@@ -2,10 +2,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/davidigold)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidigold/)](https://www.linkedin.com/in/davidigold/) [![Gmail Badge](https://img.shields.io/badge/-Email_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidgold@hey.com)](mailto:davidgold@hey.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ABOUT ME
-
-I'm David; I'm a software engineer working at TheRealReal.  When I'm not programming, I enjoy cooking (and eating), skiing, basketball and exploring the big apple 🍎 
-
 ### TECHNOLOGIES
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
