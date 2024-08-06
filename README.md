@@ -3,7 +3,7 @@
 
 - 🔭 I work at [The RealReal](https://www.therealreal.com/)
 
-- 👨‍💻 All of my projects are available at [davidgold.io](davidgold.io)
+- 👨‍💻 I highlight some of my projects at [davidgold.io](davidgold.io)
 
 - 📫 How to reach me [twitter.com/davidfromhs](twitter.com/davidfromhs)
 
